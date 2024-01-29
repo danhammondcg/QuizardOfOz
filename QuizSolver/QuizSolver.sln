@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzardOfOzApi", "QuizzardOfOzApi\QuizzardOfOzApi.csproj", "{4355DC5D-2B7A-42AD-AE4B-DEF43960D08E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4355DC5D-2B7A-42AD-AE4B-DEF43960D08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4355DC5D-2B7A-42AD-AE4B-DEF43960D08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4355DC5D-2B7A-42AD-AE4B-DEF43960D08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4355DC5D-2B7A-42AD-AE4B-DEF43960D08E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC6524A-C7DD-419C-BBC7-56F862D7C5B2}
+	EndGlobalSection
+EndGlobal
